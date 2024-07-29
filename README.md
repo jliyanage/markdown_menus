@@ -1,1 +1,3 @@
-All Menus in [Wiki](https://github.com/jliyanage/markdown_recipes/wiki).
+Markup menus to Github Pages
+
+View online menus [here](https://jliyanage.github.io/whats_in_this/).
