@@ -20,7 +20,7 @@
 
         <header>
           <!-- <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
-          <h1>{{ page.modified_time }}</h1>
+          <h1>{{ page.date | date: "%-d %B %Y" }}</h1>
 
         </header>
         <hr>
