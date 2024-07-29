@@ -1,3 +1,9 @@
+---
+layout: menu
+---
+
+# Afternoon Tea
+
 ## Salads
 
 ### Pasta Salad (v)
