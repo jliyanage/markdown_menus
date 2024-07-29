@@ -1,5 +1,3 @@
-# Afternoon Tea
-
 ## Salads
 
 ### Pasta Salad (v)
@@ -9,7 +7,6 @@ _Dressing: Olive Oil, Lemon Juice, Red Wine Vinegar, Mustard, Parsley, Garlic, O
 ### Waldorf Salad (v)
 > Red Apples, Red Grapes, Celery, Walnuts, Mayo, Greek Yogurt, Lemon Juice, Salt, Pepper
 
-## 
 ## Sandwiches
 
 ### Egg Salad (v)
@@ -21,7 +18,6 @@ _Dressing: Olive Oil, Lemon Juice, Red Wine Vinegar, Mustard, Parsley, Garlic, O
 ### Spicy Tuna
 > Wholemeal Bread, Tuna, Onions, Pickles, Mayo, Sriracha, Paprika, Salt and Vinegar crisps
 
-## 
 ## Accompaniments
 
 ### Charcuterie
