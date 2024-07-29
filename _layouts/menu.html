@@ -19,8 +19,7 @@
       <div class="inner">
 
         <header>
-          <!-- <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
-          <h1>{{ page.date | date: "%-d %B %Y" }}</h1>
+          <h1>{{ page.date | date: "%-d %B %Y" | default: site.title }}</h1>
 
         </header>
         <hr>
