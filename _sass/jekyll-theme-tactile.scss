@@ -105,6 +105,11 @@ header h2 {
   margin-bottom: 40px;
 }
 
+#home {
+  margin-left: auto; 
+  margin-right: 0;
+}
+
 a.button {
   display: block;
   float: left;
@@ -244,10 +249,12 @@ form {
 /* GENERAL ELEMENT TYPE STYLES */
 
 h1 {
+  text-align: center;
   font-size: 32px;
 }
 
 h2 {
+  text-align: center;
   margin-bottom: 8px;
   font-size: 22px;
   font-weight: bold;
@@ -263,17 +270,20 @@ h3 {
 }
 
 h4 {
+  text-align: center;
   font-size: 16px;
   font-weight: bold;
   color: #303030;
 }
 
 h5 {
+  text-align: center;
   font-size: 1em;
   color: #303030;
 }
 
 h6 {
+  text-align: center;
   font-size: .8em;
   color: #303030;
 }
@@ -324,7 +334,6 @@ footer {
 }
 
 footer a {
-  padding-right: 10px;
   color: #666;
 }
 footer a:hover {

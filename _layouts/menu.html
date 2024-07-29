@@ -19,7 +19,7 @@
       <div class="inner">
 
         <header>
-          <h1>{{ page.date | date: "%-d %B %Y" | default: site.title }}</h1>
+          <h1>{{ post.date | date: "%-d %B %Y" | default: page.title }}</h1>
 
         </header>
         <hr>
@@ -29,9 +29,11 @@
 
         <footer>
           <div class="legend">
-                <span>v Vegan</span><br>
-                <span>vg Vegetarian</span><br>
-                <span>gf Gluten-Free</span><br>
+            <span>vg Vegetarian</span><br>
+            <span>v Vegan</span><br>
+            <span>gf Gluten-Free</span><br>
+            <a href="{{ site.url }}" id="Home" class="button"><span>Home</span></a>
+          </div>
         </footer>
 
       </div>
