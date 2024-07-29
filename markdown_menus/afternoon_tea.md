@@ -2,36 +2,40 @@
 layout: menu
 ---
 
-# Afternoon Tea
+## Afternoon Tea
 
-## Salads
+***
 
-### Pasta Salad (v)
+### Salads
+
+#### Pasta Salad (v)
 > Farfalle, Spinach, Cherry Tomatoes, Red Peppers, Avocado, Red Onion, Kalamata Olives, Feta  
 _Dressing: Olive Oil, Lemon Juice, Red Wine Vinegar, Mustard, Parsley, Garlic, Oregano, Basil_
 
-### Waldorf Salad (v)
+#### Waldorf Salad (v)
 > Red Apples, Red Grapes, Celery, Walnuts, Mayo, Greek Yogurt, Lemon Juice, Salt, Pepper
 
-## Sandwiches
+***
+### Sandwiches
 
-### Egg Salad (v)
+#### Egg Salad (v)
 > White Bread, Eggs, Spinach, Kewpie Mayo Butter, Dill, Dijon Mustard, Pepper
 
-### Caprese (v)
+#### Caprese (v)
 > Rye Bread, Heirloom Tomatoes, Mozzarella, Basil, Pesto, Rocket, Sea Salt
 
-### Spicy Tuna
+#### Spicy Tuna
 > Wholemeal Bread, Tuna, Onions, Pickles, Mayo, Sriracha, Paprika, Salt and Vinegar crisps
 
-## Accompaniments
+***
+### Accompaniments
 
-### Charcuterie
+#### Charcuterie
 
 > Cheese and Crackers   
 Jams - Fig, Grape, Shiraz
 
-### Drinks
+#### Drinks
 
 >Balzac  
 Mebourne Breakfast
