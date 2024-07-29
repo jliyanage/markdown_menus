@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Afternoon Tea](./markdown_menus/afternoon_tea.md).
 
 There should be whitespace between paragraphs.
 
