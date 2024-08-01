@@ -1,41 +1,40 @@
 ---
 layout: menu
+title: "Afternoon Tea"
+date: 2024-08-03 18:22:36 +1000
+categories: light cold
 ---
 
 ## Afternoon Tea
 
 ***
-
+ 
 ### Salads
 
 #### Pasta Salad (v)
-> Farfalle, Spinach, Cherry Tomatoes, Red Peppers, Avocado, Red Onion, Kalamata Olives, Feta  
-_Dressing: Olive Oil, Lemon Juice, Red Wine Vinegar, Mustard, Parsley, Garlic, Oregano, Basil_
+> Rainbow Farfalle, Cherry Tomatoes, Feta, Capsicum, Avocado, Spinach, Kalamata Olives, Basil
+_Dressing: Olive Oil, Lemon Juice, Apple Cider Vinegar, Pomegranate Molasses, Simple Syrup, Sea Salt, Sumac, Pepper_
 
-#### Waldorf Salad (v)
-> Red Apples, Red Grapes, Celery, Walnuts, Mayo, Greek Yogurt, Lemon Juice, Salt, Pepper
+#### Fennel Waldorf Salad (vg)
+> Fennel, Red Apples, Red Grapes, Red Onion, Walnuts
+_Dressing: Greek Yogurt, Lemon Juice, Fennel Fronds, Dill, Fig and Fennel Bitters, Mirin, Pepper_
+
+Remove all paper towels, add optional nuts/olives, add dressing, mix and enjoy.
 
 ***
 ### Sandwiches
 
 #### Egg Salad (v)
-> White Bread, Eggs, Spinach, Kewpie Mayo Butter, Dill, Dijon Mustard, Pepper
+> White Bread, Eggs, Spinach, Kewpie Mayo, Olive Butter, Dijon Mustard, Bread Crumbs, Pepper
 
 #### Caprese (v)
-> Rye Bread, Heirloom Tomatoes, Mozzarella, Basil, Pesto, Rocket, Sea Salt
+> Wholemeal Sourdough, Heirloom Tomatoes, Mozzarella, Rocket, Pesto, Buratta, Sea Salt
 
 #### Spicy Tuna
-> Wholemeal Bread, Tuna, Onions, Pickles, Mayo, Sriracha, Paprika, Salt and Vinegar crisps
+> Wholemeal Bread, Tuna, Onions, Carrots, Kewpie Mayo, Sriracha, Paprika
 
 ***
-### Accompaniments
+### Dessert
 
-#### Charcuterie
-
-> Cheese and Crackers   
-Jams - Fig, Grape, Shiraz
-
-#### Drinks
-
->Balzac  
-Mebourne Breakfast
+##### Eggless Chocolate Mousse
+> Dark Chocolate, Heavy Cream, Double Cream, Sugar, Vanilla, Marashino Cherries
