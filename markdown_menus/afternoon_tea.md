@@ -12,14 +12,13 @@ categories: light cold
 ### Salads
 
 #### Pasta Salad (v)
-> Rainbow Farfalle, Cherry Tomatoes, Feta, Capsicum, Avocado, Spinach, Kalamata Olives, Basil
+> Rainbow Farfalle, Cherry Tomatoes, Feta, Capsicum, Avocado, Spinach, Kalamata Olives, Basil  
 _Dressing: Olive Oil, Lemon Juice, Apple Cider Vinegar, Pomegranate Molasses, Simple Syrup, Sea Salt, Sumac, Pepper_
 
 #### Fennel Waldorf Salad (vg)
-> Fennel, Red Apples, Red Grapes, Red Onion, Walnuts
+> Fennel, Red Apples, Red Grapes, Red Onion, Walnuts  
 _Dressing: Greek Yogurt, Lemon Juice, Fennel Fronds, Dill, Fig and Fennel Bitters, Mirin, Pepper_
 
-Remove all paper towels, add optional nuts/olives, add dressing, mix and enjoy.
 
 ***
 ### Sandwiches
